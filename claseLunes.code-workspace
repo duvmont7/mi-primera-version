@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../claseLunes"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "blog"
+	}
+}
